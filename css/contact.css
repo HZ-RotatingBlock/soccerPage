@@ -1,0 +1,138 @@
+*{
+  margin:0px;
+  padding:0px;
+  text-decoration:none;
+  font-family:"Microsoft YaHei";
+  list-style:none;
+  color:black;
+}
+body{
+  width:100%;
+  padding-top:0;
+  background-color:#e6e6e6;
+  background-image:url(../images/contactBg_1.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+}
+.main{
+  position:relative;
+  margin:0 auto;
+  margin-top:4%;
+  padding-top:50px;
+  padding-right:50px;
+  padding-left:50px;
+  width:1400px;
+  height:4588px;
+  background-color:#ffffff;
+}
+.bgImages{
+  margin:0 auto;
+  width:100%;
+  height:850px;
+  background-image:url(../images/contactBg_1.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+}
+/*内容主体设置*/
+.mainContent{
+  position:absolute;
+  top:800px;
+  width:1400px;
+}
+/*内容标题设置*/
+.main .mainContent .contentTitle{
+  position:absolute;
+  top:200px;
+  left:28%;
+}
+/*内容设置*/
+/*联系图标设置*/
+.main .icons{
+	position:absolute;
+	top:520px;
+	left:31.3%;
+	width:50%;
+	height:30px;
+}
+#icons{
+	float:left;
+}
+#icons:hover{
+	cursor:pointer;
+}
+#icons li{
+	float:left;
+	margin:40px;
+}
+#icons img{
+	width:90px;
+	height:auto;
+}
+/*视频*/
+#video{
+  position:absolute;
+  top:1570px;
+  left:10%;
+  width:1200px;
+  height:1950px;
+}
+#video ul{
+  float:left;
+}
+#video ul li{
+    margin-bottom:50px;
+    width:1200px;
+    height:auto;
+  }
+/*查看更多*/
+#view{
+  position:absolute;
+  top:4310px;
+  left:38.6%;
+  cursor:pointer
+}
+/*底部信息*/
+.bottomBg{
+  position:absolute;
+  top:4550px;
+  left:0px;
+  width:1500px;
+  height:1038px;
+  background-color:#ffffff;
+}
+.footImg{
+  position:absolute;
+  width:1500px;
+  height:844px;
+  background-image:url(../images/contactBg_2.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center center ;
+  background-attachment:fixed;
+}
+.footText{
+  position:absolute;
+  bottom:0px;
+  width:1500px;
+  height:300px;
+  background-color:#434a54;
+}
+.footText .thank{
+  position:absolute;
+  left:31%;
+  top:15%;
+  width:556px;
+  height:103px;
+}
+.footText .praise{
+  position:absolute;
+  bottom:15%;
+  left:46.8%;
+  width:70px;
+  height:80px;
+}
+.footText .praise:hover{
+    cursor:pointer;
+  }
