@@ -113,12 +113,12 @@ body{
 	margin-left:-100px;
 	margin-top:-50px;
 	height:auto;
-	transition:all 5s;
+	transition:all 2s;
 }
 #pageContent .one .one_img img:hover{
 	opacity:1;
-	-webkit-transform: translateZ(-300px);
-	transform: scale(-300px);
+	-webkit-transform: scale(1.4,1.4);
+	transform: scale(1.4,1.4);
 }
 #pageContent .two:hover{
 	background-color:#1abc9c;
@@ -137,12 +137,12 @@ body{
 	margin-left:-100px;
 	margin-top:-100px;
 	height:auto;
-	transition:all 5s;
+	transition:all 2s;
 }
 #pageContent .two .two_img img:hover{
 	opacity:1;
-	-webkit-transform: translateZ(-400px);
-	transform: scale(-400px);
+	-webkit-transform: scale(1.4,1.4);
+	transform: scale(1.4,1.4);
 }
 #pageContent .three:hover{
 	background-color:#1abc9c;
@@ -160,12 +160,12 @@ body{
 	margin-left:-100px;
 	margin-top:-50px;
 	height:auto;
-	transition:all 5s;
+	transition:all 2s;
 }
 #pageContent .three .three_img img:hover{
 	opacity:1;
-	-webkit-transform: translateZ(-300px);
-	transform: scale(-300px);
+	-webkit-transform: scale(1.4,1.4);
+	transform: scale(1.4,1.4);
 }
 #pageContent .four:hover{
 	background-color:#1abc9c;
@@ -183,12 +183,13 @@ body{
 	margin-left:-100px;
 	margin-top:0px;
 	height:auto;
-	transition:all 5s;
+	transition:all 2s;
 }
 #pageContent .four .four_img img:hover{
 	opacity:1;
 	-webkit-transform:translateY(-50px) translateZ(-300px);
-	transform: scale(-300px);
+	-webkit-transform: scale(1.4,1.4);
+	transform: scale(1.4,1.4);
 }
 #pageContent .five:hover{
 	background-color:#1abc9c;
@@ -207,12 +208,12 @@ body{
 	margin-left:-100px;
 	margin-top:-50px;
 	height:auto;
-	transition:all 5s;
+	transition:all 2s;
 }
 #pageContent .five .five_img img:hover{
 	opacity:1;
-	-webkit-transform: translateZ(-300px);
-	transform: scale(-300px);
+	-webkit-transform: scale(1.4,1.4);
+	transform: scale(1.4,1.4);
 }
 #pageContent .six:hover{
 	background-color:#1abc9c;
@@ -231,12 +232,12 @@ body{
 	margin-left:-100px;
 	margin-top:-120px;
 	height:auto;
-	transition:all 5s;
+	transition:all 2s;
 }
 #pageContent .six .six_img img:hover{
 	opacity:1;
-	-webkit-transform: translateZ(-300px);
-	transform: scale(-300px);
+	-webkit-transform: scale(1.4,1.4);
+	transform: scale(1.4,1.4);
 }
 #pageContent .seven:hover{
 	background-color:#1abc9c;
@@ -254,12 +255,12 @@ body{
 	margin-left:-70px;
 	margin-top:-50px;
 	height:auto;
-	transition:all 5s;
+	transition:all 2s;
 }
 #pageContent .seven .seven_img img:hover{
 	opacity:1;
-	-webkit-transform: translateZ(-300px);
-	transform: scale(-300px);
+	-webkit-transform: scale(1.4,1.4);
+	transform: scale(1.4,1.4);
 }
 #pageContent .eight:hover{
 	background-color:#1abc9c;
@@ -277,12 +278,12 @@ body{
 	margin-left:-100px;
 	margin-top:-50px;
 	height:auto;
-	transition:all 5s;
+	transition:all 2s;
 }
 #pageContent .eight .eight_img img:hover{
 	opacity:1;
-	-webkit-transform: translateZ(-300px);
-	transform: scale(-300px);
+	-webkit-transform: scale(1.4,1.4);
+	transform: scale(1.4,1.4);
 }
 /*内容文字*/
 #pageText1{
